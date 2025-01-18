@@ -3,7 +3,7 @@
 Welcome to my creative portfolio! This repository showcases my work, skills, and creative projects.
 
 ## 🌟 Live Demo
-Visit my portfolio at: https://archa-portfolio.netlify.app/
+Visit my portfolio at:
 
 ## 🎨 Features
 - Modern and responsive design
